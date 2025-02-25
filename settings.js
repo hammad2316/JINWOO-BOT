@@ -1,11 +1,12 @@
 /*project_name : JINWOO BOT
 @author : MALVIN KING
-@youtube : https://www.youtube.com/@malvintech2 
+@youtube :  
 @instagram : malvinking20
 @telegram : t.me/malvintech
 @github : kingmalvn 
 @tiktok : malvinquotes
-@whatsapp : +263714757857
+@whatsapp : +923376218605) yah WhatsApp number hai jisne bahut lagwane lagva sakta hai
+کالا ڈاکو واٹس ایپ بورڈ کس نے بنوانا ہے فری
 */
  
 //=================================================//
