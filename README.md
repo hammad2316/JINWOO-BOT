@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐍𝐄𝐗𝐔𝐒%20-𝐗𝐌𝐃;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝐌𝐀𝐋𝐕𝐈𝐍%20𝐊𝐈𝐍𝐆..💖)
+![Typing SVG]([https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐍𝐄𝐗𝐔𝐒%20-𝐗𝐌𝐃;%20𝗠𝗨𝗟𝗧𝗜-%20%20;%20%20%20%20(https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=𝐍𝐄𝐗𝐔𝐒%20-;%20HAMMAD%20HAMMAD%20;%20HAMMAD%20%20%20)..💖)
 <p align="center">
 
 </p>
@@ -207,7 +207,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 ##
 - Star ⭐ this repository if you like Jinwoo Bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/263714757857)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/923376218605)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
