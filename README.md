@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://files.catbox.moe/ex1627.jpg" alt="JINWOO BOT" height="200"> 
+    <img src="https://ibb.co/ds4C8f09" alt="JINWOO BOT" height="200"> 
   </a> 
 </div>
   </a>
