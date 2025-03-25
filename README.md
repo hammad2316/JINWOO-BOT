@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/bqs70b.jpg?">
+src="https://ibb.co/ds4C8f09">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=J+I+N+W+O+O+▇)](https://git.io/typing-svg)
 <br>
